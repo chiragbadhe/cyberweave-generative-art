@@ -2,6 +2,10 @@
 
 This project generates unique generative art based on Ethereum addresses and optional data parameters. The art style features organic, flowing curves with a nature-inspired green color palette.
 
+<p align="center">
+  <img src="./demo.png" alt="Cyberweave Art Example" width="300" />
+</p>
+
 ## Art Description
 
 The generative art algorithm creates abstract layered compositions with the following characteristics:
