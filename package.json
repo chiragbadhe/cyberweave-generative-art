@@ -9,8 +9,6 @@
     "test:watch": "jest --watch"
   },
   "devDependencies": {
-    "@ethereumjs/util": "^9.0.3",
-    "@metamask/eth-sig-util": "^7.0.2",
     "@types/jest": "^29.5.12",
     "@types/node": "^20.14.1",
     "jest": "^29.7.0",
@@ -18,11 +16,12 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@types/p5": "^1.7.6",
     "@vercel/node": "^3.1.6",
-    "axios": "^1.7.2",
-    "date-fns": "^4.1.0",
+    "canvas": "^3.0.1",
     "dotenv": "^16.4.5",
-    "msw": "^2.7.0",
+    "node-p5": "^1.0.4",
+    "p5": "^1.11.2",
     "viem": "^2.13.5"
   }
 }
