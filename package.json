@@ -4,7 +4,6 @@
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
   "scripts": {
-    "start": "node index.ts",
     "test": "jest",
     "test:watch": "jest --watch"
   },
@@ -16,12 +15,9 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@types/p5": "^1.7.6",
     "@vercel/node": "^3.1.6",
     "canvas": "^3.0.1",
     "dotenv": "^16.4.5",
-    "node-p5": "^1.0.4",
-    "p5": "^1.11.2",
     "viem": "^2.13.5"
   }
 }
